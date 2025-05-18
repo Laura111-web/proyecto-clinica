@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_Principal"
+        android:title="Principal"/>
+    <item
+        android:id="@+id/nav_Perfil"
+        android:title="Perfil Paciente"/>
+    <item
+        android:id="@+id/nav_Informes"
+        android:title="Informes"/>
+    <item
+        android:id="@+id/nav_Citas"
+        android:title="Citas"/>
+    <item
+        android:id="@+id/nav_pedirCitas"
+        android:title="Pedir Citas"/>
+    <item
+        android:id="@+id/nav_servicios"
+        android:title="Servicios"/>
+    <item
+        android:id="@+id/nav_contacto"
+        android:title="Contacto"/>
+    <item
+        android:id="@+id/nav_acerca"
+        android:title="Acerca de"/>
+    <item
+        android:id="@+id/nav_CerrarSesion"
+        android:title="Cerrar Sesion"/>
+
+</group>
+</menu>
